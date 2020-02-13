@@ -1,0 +1,46 @@
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+header {
+    margin: 0;
+    background-color: rgba(18,113,131,0.25);
+    color: #fbffff;
+}
+body {
+    background-image: url("images/WallpaperFinal2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.opacity {
+    background: transparent;
+}
+article.h3 {
+    margin-left: 1vw;
+}
+.progress {
+    border-radius: 10px;
+    background: rgba(251,255,255,0.35);
+}
+.zoom:hover {
+    transform: scale(1.05);
+}
+.cv {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+
+}
+.opac {
+    opacity: 0.90;
+}
+.forint {
+    margin-top: 2vh;
+}
+.progress-bar {
+    border-radius: 10px;
+}
+.nav-item {
+    padding-right: 1vw;
+}
